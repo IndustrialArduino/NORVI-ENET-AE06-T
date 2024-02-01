@@ -15,5 +15,8 @@ Built-in 0.96 OLED Display
 Built-in microSD Card
 Built-in RTC
 Digital Inputs
-Transitor Outputs
+Transistor Outputs
 DIN-Rail mount
+
+Datasheet:   https://drive.google.com/open?id=1Y5Wf7a-BKiGmkrsfiQpkhaZzLju3FsHs&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1eNn1u4LyYwxcxvCX-Cks4pgbxAnl-iso&usp=drive_fs
