@@ -1,5 +1,5 @@
 # NORVI-ENET-AE06-T
-ESP32-based controller with Transistor outputs including micro SD, ethernet and RTC. 
+ESP32-based controller with Transistor outputs including micro SD, ethernet, and RTC. 
 
 USB Programmable Industrial ESP32 with OLED Display and din-rail mount. NORVI ENET Series comes with built-in Ethernet. Expanding its connectivity.  
 
@@ -18,5 +18,5 @@ Digital Inputs
 Transistor Outputs
 DIN-Rail mount
 
-Datasheet:   https://drive.google.com/open?id=1Y5Wf7a-BKiGmkrsfiQpkhaZzLju3FsHs&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1eNn1u4LyYwxcxvCX-Cks4pgbxAnl-iso&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-enet-ae06-t-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-enet-ae06-t-user-guide/
