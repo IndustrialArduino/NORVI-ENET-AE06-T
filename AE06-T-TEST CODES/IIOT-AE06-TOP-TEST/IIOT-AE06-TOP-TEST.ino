@@ -2,7 +2,6 @@
  * RTC Check
  * micro SD Card Check
  * Ethernet Check      
- * RS485
  * All Output Turn ON Series
  * All input status serial print 
  * Turns ON All Outputs in series
